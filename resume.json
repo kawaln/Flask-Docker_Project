@@ -1,0 +1,12 @@
+{
+  "name": "Nathan K",
+  "title": "QA Automation / DevOps Enthusiast",
+  "skills": ["Python", "Flask", "Docker", "GitHub Actions"],
+  "experience": [
+    {
+      "company": "YourCompany",
+      "role": "Hardware QA",
+      "duration": "1 Year and 3 months"
+    }
+  ]
+}
